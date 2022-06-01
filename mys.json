@@ -1,5 +1,5 @@
 {
-"spider": "https://hy2055.github.io/mao/jar/custom_spider_t3.jar",
+"spider": "https://github.com/hy2055/1/tree/main/jar/custom_spider_t3.jar",
   "sites": [
 {"name":"爬虫"},
 {"key": "七七","name": "七七〔P〕","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
